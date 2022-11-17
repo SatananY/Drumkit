@@ -80,8 +80,4 @@ document.addEventListener("keydown", function (event) {
       audio.play();
     }
 
-
-
-
-
 } );
